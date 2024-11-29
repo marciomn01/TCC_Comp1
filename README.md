@@ -68,7 +68,7 @@ Prepare-se para a clássica batalha de estratégia em que dois jogadores posicio
 3. **Execute os jogos**:  
    - JoKenPoo:  
      ```bash
-     ./KoKenPoo
+     ./JoKenPoo
      ```  
    - Batalha Naval:  
      ```bash
